@@ -13,7 +13,7 @@ class _TestPageState extends State<TestPage> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      backgroundColor: Colors.amber,
+      backgroundColor: Colors.white,
     );
   }
 }
